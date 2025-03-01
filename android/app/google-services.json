@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899277817497",
+    "project_id": "conference-f4437",
+    "storage_bucket": "conference-f4437.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899277817497:android:ba9812499db8c9c0115a08",
+        "android_client_info": {
+          "package_name": "com.example.conference"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAru98BdPFgrkooE3cfgAdR7bu7FLEXdqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
